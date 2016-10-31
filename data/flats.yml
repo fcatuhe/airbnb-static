@@ -6,6 +6,8 @@ seb:
   summary: Charming room in Montmartre
   city: Paris, France
   wifi: true
+  rating: 4
+  description: This one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue - 3 minutes walk from Sacré Coeur
 anne:
   owner_name: Anne Collet
   picture: card-brussels.jpeg
@@ -14,6 +16,8 @@ anne:
   summary: Lovely  house
   city: Brussels, Belgium
   wifi: true
+  rating: 5
+  description: This one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue - 3 minutes walk from Sacré Coeur
 romain:
   owner_name: Romain Paillard
   picture: card-london.jpeg
@@ -22,6 +26,8 @@ romain:
   summary: Nice flat in Piccadilly
   city: London, UK
   wifi: false
+  rating: 3
+  description: This one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue - 3 minutes walk from Sacré Coeur
 francois:
   owner_name: François Catuhe
   picture: card-bordeaux.jpg
@@ -30,3 +36,5 @@ francois:
   summary: Peaceful flat near Jardin Public
   city: Bordeaux, France
   wifi: false
+  rating: 5
+  description: Peaceful flat in the center of Bordeaux, close to the Jardin Public, lodges 4 people in 2 rooms (2 double beds).
