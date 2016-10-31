@@ -48,7 +48,8 @@ title: Airbnb Le Wagon
   <div class="container">
     <h2 class="text-center">Your next trip</h2>
     <div class="row">
-      <% data.flats.each do |owner, flat| %>
+      <% data.flats.keys.shuffle.first(3).each do |owner| %>
+      <% flat = data.flats[owner] %>
       <div class="col-xs-12 col-sm-4">
         <div class="card" style="background-image: url('<%= image_path flat.picture %>');">
           <div class="card-category"><%= flat.city %></div>
